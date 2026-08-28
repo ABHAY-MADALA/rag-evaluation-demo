@@ -1,0 +1,35 @@
+USER_QUERY:
+What should I do if a Zeta-Phase Slip occurs on the Aether-V9?
+
+RELEVANT_CONTEXT:
+Instead, vent the chrono-plasma through the auxiliary valve B-4 and wait exactly 42 seconds for the reality index to normalize above 0.98.
+
+TARGET_RESPONSE:
+If a Zeta-Phase Slip occurs, do not use the primary dampener. You must vent the chrono-plasma through the auxiliary valve B-4 and wait exactly 42 seconds until the reality index normalizes above 0.98.
+
+
+
+
+USER_QUERY:
+What happens if the sub-spatial flux-core gasket exceeds 4,500 CU?
+
+RELEVANT_CONTEXT:
+"Exceeding this threshold induces 'spaghetti-ification' of nearby physical matter."
+
+TARGET_RESPONSE:
+"Exceeding the 4,500 Chronos-Units limit causes the spaghetti-ification of nearby physical matter due to material breakdown."
+
+
+
+
+
+USER_QUERY:
+"How do I clear the Paradox Leak error code ERR-9942?"
+
+RELEVANT_CONTEXT:
+"To clear ERR-9942, execute a cold reboot of the logic-lattice while maintaining a containment field at 88% capacity."
+
+TARGET_RESPONSE:
+"To resolve error ERR-9942, perform a cold reboot of the logic-lattice. You must ensure the containment field is held precisely at 88% capacity during this process."
+
+

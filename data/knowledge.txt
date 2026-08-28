@@ -1,0 +1,17 @@
+The Aether-V9 engine utilizes a localized tachyon sieve to stitch fragmented 
+world-lines. When a 'Zeta-Phase Slip' occurs, the operator must not engage the 
+primary dampener. Doing so triggers a localized temporal loop. Instead, vent the 
+chrono-plasma through the auxiliary valve B-4 and wait exactly 42 seconds for 
+the reality index to normalize above 0.98.
+
+
+Sub-spatial flux-core gaskets are forged from Unobtainium-G7. They have a 
+maximum tolerance of 4,500 Chronos-Units (CU). Exceeding this threshold induces 
+'spaghetti-ification' of nearby physical matter. Gaskets must be treated with 
+anti-entropy paste every three cycles to prevent causality degradation.
+
+
+Error Code: ERR-9942 indicates a Paradox Leak in the secondary timeline branch. 
+This happens when an operator forgets to close the grandfather-filter gate before 
+initiating a reverse jump. To clear ERR-9942, execute a cold reboot of the 
+logic-lattice while maintaining a containment field at 88% capacity.
